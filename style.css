@@ -1,0 +1,6 @@
+h1 {
+background-image: url('photo-1626921376914-33b0b45b9ff0.webp');
+background-size: cover;
+-webkit-text-fill-color: transparent;
+-webkit-background-clip: text;
+}
